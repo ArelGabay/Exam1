@@ -1,0 +1,5 @@
+List - Mutable, Ordered, Slicing, Duplicate
+
+Set - Mutable, Unordered, Cannot be slice, Cannot duplicate
+
+Tuple - Immutable, Ordered, Slicing, Duplicate
